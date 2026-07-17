@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
+| [3668-restore-finishing-order](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3668-restore-finishing-order](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 ## Sorting
 |  |
 | ------- |
