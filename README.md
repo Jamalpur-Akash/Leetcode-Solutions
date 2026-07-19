@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
