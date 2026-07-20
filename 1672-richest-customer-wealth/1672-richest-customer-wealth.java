@@ -7,7 +7,7 @@ class Solution {
                 sum+=accounts[i][j];
             }
 
-            if(maxSum<=sum || maxSum==0){
+            if(maxSum<=sum){
                 maxSum=sum;
             }
 
