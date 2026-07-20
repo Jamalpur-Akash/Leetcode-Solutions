@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1672-richest-customer-wealth](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [3668-restore-finishing-order](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
