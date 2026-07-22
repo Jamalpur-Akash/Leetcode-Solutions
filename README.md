@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3668-restore-finishing-order](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 ## Sorting
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
