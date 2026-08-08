@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -125,12 +126,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [3701-compute-alternating-sum](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Sliding Window
 |  |
