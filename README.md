@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3099-harshad-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3099-harshad-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
