@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3668-restore-finishing-order](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Enumeration
 |  |
 | ------- |
