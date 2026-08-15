@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0070-climbing-stairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
