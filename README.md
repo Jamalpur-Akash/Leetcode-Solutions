@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3668-restore-finishing-order](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
