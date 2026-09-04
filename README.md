@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Hash Table
 |  |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [3903-smallest-stable-index-i](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
 | ------- |
