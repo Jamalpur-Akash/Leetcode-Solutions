@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Prefix Sum
