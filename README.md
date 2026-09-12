@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 ## Design
