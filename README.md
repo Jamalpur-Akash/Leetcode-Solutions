@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0709-to-lower-case](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
