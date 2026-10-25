@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3099-harshad-number](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3099-harshad-number) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2409-count-days-spent-together](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Jamalpur-Akash/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Enumeration
